@@ -1,4 +1,4 @@
-# LIT3_Meetup_SmartGlasses
+# LIT11_Meetup_SoeechToNote
 
 ## 강의 녹음을 나만의 AI 노트로
 
